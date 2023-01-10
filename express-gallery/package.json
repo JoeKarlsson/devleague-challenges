@@ -29,12 +29,12 @@
     "express": "^4.13.3",
     "express-session": "^1.14.1",
     "jade": "^1.11.0",
-    "method-override": "^2.3.5",
+    "method-override": "^3.0.0",
     "passport": "^0.3.0",
     "passport-local": "^1.0.0",
     "pg": "^4.4.3",
     "pg-hstore": "^2.3.2",
-    "sequelize": "^3.13.0"
+    "sequelize": "^5.1.0"
   },
   "devDependencies": {
     "browser-sync": "^2.12.5",
